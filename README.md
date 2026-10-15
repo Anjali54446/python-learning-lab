@@ -163,9 +163,10 @@ differ slightly if you have renamed or rearranged files.
 python-learning-lab/
 ├── README.md
 ├── Session-1-Python-Basics/
-├── Session-2-Python-Strings-and-Collections/
-├── Session-3-Python-Practical-Foundations-Collections/
-└── Session-5-Python-Practical-Loops-Functions-Essentials/
+├── Session-2-Strings-and-Collections/
+├── Session-3-practicals/
+|__ Session-4-loops-functions/
+└── Session-5-practicals/
 ```
 
 **Session 4 is primarily theory/presentation material.** If you keep the
