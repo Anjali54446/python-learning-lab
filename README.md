@@ -169,22 +169,17 @@ python-learning-lab/
 └── Session-5-practicals/
 ```
 
-**Session 4 is primarily theory/presentation material.** If you keep the
-slide deck in the repository, you can add its filename or a
-`Session-4-.../` folder to the structure above.
-
 ------------------------------------------------------------------------
 
 ## How to Use This Repository
 
 1.  Open the repository on GitHub.
 2.  Choose the session you are learning.
-3.  Read the session notes or presentation first, where available.
-4.  Open the relevant `.py` file and read the comments and code.
-5.  Predict what the program will do before running it.
-6.  Run the example and compare the output with your prediction.
-7.  Change the input or values and observe what changes.
-8.  Try the homework independently before looking at a solution.
+3.  Open the relevant `.py` file and read the comments and code.
+4.  Predict what the program will do before running it.
+5.  Run the example and compare the output with your prediction.
+6.  Change the input or values and observe what changes.
+7 .  Try the homework independently before looking at a solution.
 
 ### Run the examples in Google Colab
 
