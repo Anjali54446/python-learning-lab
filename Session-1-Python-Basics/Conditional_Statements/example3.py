@@ -11,4 +11,4 @@ elif marks >= 60:
 elif marks >= 35:
     print("Grade: D")
 else:
-    print("Result: Needs improvement")
+    print("Result: Fail")
