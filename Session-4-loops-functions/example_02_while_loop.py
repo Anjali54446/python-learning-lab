@@ -6,7 +6,7 @@ while count <= 5:
     count += 1  # Update the variable so the loop eventually stops.
 
 # Interactive example:
-# Uncomment to try this with learners.
+# Uncomment to try this.
 # answer = ""
 # while answer != "yes":
 #     answer = input("Type yes to continue: ").strip().lower()
