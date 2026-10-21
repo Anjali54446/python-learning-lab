@@ -179,7 +179,7 @@ python-learning-lab/
 4.  Predict what the program will do before running it.
 5.  Run the example and compare the output with your prediction.
 6.  Change the input or values and observe what changes.
-7 .  Try the homework independently before looking at a solution.
+7.  Try the homework independently before looking at a solution.
 
 ### Run the examples in Google Colab
 
